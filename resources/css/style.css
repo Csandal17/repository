@@ -31,3 +31,10 @@ body {
     color: #747F8C;
 }
 
+/* Footer */
+
+.footer--copyright {
+    font-size: 16px;
+    color: #747F8C;
+    text-align: right;
+}
